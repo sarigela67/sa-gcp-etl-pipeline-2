@@ -1,0 +1,7 @@
+name: simple-de-infra
+runtime:
+  name: python
+  options:
+    virtualenv:
+      create: true
+description: Enterprise ETL infra for sonic-earth-476701-m1
